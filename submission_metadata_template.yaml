@@ -7,21 +7,21 @@
 # ============================================================================
 # Team identity
 # ============================================================================
-team_name: "your-team-name-here"  # Used in leaderboard and announcements
+team_name: "NeuralNinjas_X"  # Used in leaderboard and announcements
 
 primary_contact:
-  name: "Full Name"
-  email: "primary@example.com"   # Used for all organizer communication
-  phone: "+91-XXXXXXXXXX"        # Used for top-50 / top-10 outreach
+  name: "Charanjot Kaur"
+  email: "Charanjotkaur1@gmail.com"   # Used for all organizer communication
+  phone: "+91-8360329235"        # Used for top-50 / top-10 outreach
 
 team_members:
-  - name: "Member 1 Full Name"
-    email: "member1@example.com"
-    role: "ML Engineer"          # Optional, e.g. "Team Lead", "Backend", "Data"
-  - name: "Member 2 Full Name"
-    email: "member2@example.com"
-    role: "Data Engineer"
-  # Add more members as needed; solo participants list just one member
+  - name: "Charanjot Kaur"
+    email: "Charanjotkaur1@gmail.com"
+    role: "Team Lead"
+    
+  - name: "Sara Jain"
+    email: sarajain565@gmail.com"
+  
 
 # ============================================================================
 # Code and reproducibility
@@ -30,7 +30,7 @@ github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
 # Required. Must be reachable. Private repos OK if you can grant organizer
 # access at Stage 3 (the email to add will be communicated then).
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://redrob-ranker-gkmudfzuxibjvf6x3mpgxa.streamlit.app/"
 # Required. A working hosted environment where the ranker can be run on a small
 # candidate sample. See Section 10.5 of submission_spec.md for acceptable
 # platforms (HuggingFace Spaces, Streamlit Cloud, Replit, Colab, Docker, Binder).

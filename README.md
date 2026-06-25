@@ -1,4 +1,3 @@
-# Redrob-Ranker
 # Redrob Candidate Ranker
 
 AI-powered candidate ranking system for the Redrob Hackathon.
